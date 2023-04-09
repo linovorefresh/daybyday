@@ -8,3 +8,5 @@ let factorial = (n, result = 1) => {
 // ie. n! = n * (n-1) * (n-2)... (1)
 // 4! = 24 or 7! = 5040  
 console.log(factorial(7));
+
+// Layout details of notes to be included and general layout of activities like possible categories of activites or some other filter 
