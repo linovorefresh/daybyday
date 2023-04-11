@@ -3,5 +3,6 @@ let fibonacci = (n) => {
 };
 
 // Above is a fibonacci arrow function with the parameter being the nth entry in the sequence. 
+// 1, 1, 2, 3, 5, 8, 13, 21,
 // ie. fibonacci(8) returns 21 and fibonacci(10) returns 55
 console.log(fibonacci(10));
