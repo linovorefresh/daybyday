@@ -1,6 +1,6 @@
 # Javascript Coding Challenges/Activities
 
-This folder contains javascript activites.
+This folder contains javascript activities.
 
 ## Table of contents
 - [average](./average.js)
