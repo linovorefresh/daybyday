@@ -1,4 +1,4 @@
-## Javascript Coding, Concepts, and Prep
+# Javascript Coding, Concepts, and Prep
 
 This folder contains javascript coding activiites and exercises.
 
