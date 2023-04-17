@@ -3,8 +3,8 @@
 This folder contains javascript features.
 
 ## Table of contents
-- [Destructuring] (./destructuring)
-- [spread ] (./spread) 
+- [Destructuring] (./destructuring.js)
+- [spread ] (./spread.js) 
 - [rest ]
 - [map ]
 - [filter ]
