@@ -3,7 +3,7 @@
 This folder contains javascript concepts.
 
 ## Table of contents
-- [Scope] (./scope.js)
+- [Scope](./scope.js)
 - [Hoisting ]
 - [Closure ]
 - [Callbacks ]
