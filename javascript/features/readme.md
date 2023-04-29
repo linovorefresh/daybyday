@@ -6,7 +6,7 @@ This folder contains javascript features.
 - [Destructuring](./destructuring.js)
 - [spread ](./spread.js) 
 - [rest ](./rest.js) 
-- [map ]
+- [map ](./map.js)
 - [filter ]
 - [reduce ]
 - [short-circuit eval ]

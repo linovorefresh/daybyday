@@ -18,3 +18,5 @@ const updatedAccounts = accounts.map( account => {
         status: newStatus
     }
 })
+
+console.log(updatedAccounts);
